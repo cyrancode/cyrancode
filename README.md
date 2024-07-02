@@ -1,6 +1,6 @@
-Ndua Cyran
+Njua Cyran
 
-Hi! I'm Ndua Cyran, a software developer passionate about building web and mobile applications.
+Hi! I'm Njua Cyran, a software developer passionate about building web and mobile applications.
 
 I'm always looking for new challenges and opportunities to collaborate on interesting projects. Feel free to reach out if you have any development needs!
 
