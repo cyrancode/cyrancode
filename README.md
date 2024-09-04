@@ -10,7 +10,7 @@ Web Development (Frontend & Backend)
 Mobile Development (Android & iOS)
 Contact:
 
-Email: cyrancode@gmail.com
+Email: cyrannjua@gmail.com
 
 Looking to connect?
 
